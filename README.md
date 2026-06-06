@@ -4,5 +4,14 @@
 
 Виконати команду в node:
 
-```bash
+``bash
 node src/main.js
+
+## Commands I Used
+
+- git clone
+- git add
+- git commit
+- git checkout
+- git merge
+- git push
